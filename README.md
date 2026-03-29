@@ -42,7 +42,7 @@
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/mohammed-salahuddin-008b46244
+* LinkedIn: https://www.linkedin.com/in/mohammed-salahuddin-008b46244/
 * Email: Mdsalahuddinrs760@gmail.com
 
 ---
