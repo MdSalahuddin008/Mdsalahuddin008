@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 * AI/ML enthusiast passionate about building intelligent systems
-* Interested in Machine Learning, Data Science, Computer Vision, Deep Learning, and AI-based applications
+* Interested in Machine Learning, Data Science, Computer Vision, Deep Learning, and Generative Artificial Intelligence (GenAI)
 * Focused on solving real-world problems using AI
 
 ---
